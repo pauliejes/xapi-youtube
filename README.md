@@ -6,3 +6,6 @@ This script uses [YouTube's iframe API](https://developers.google.com/youtube/if
 These statements can be dispatched to an LRS with xapiwrapper.min.js using a custom ADL.XAPIYoutubeStatements.onStateChangeCallback function.
 
 Check out http://adlnet.github.io/xapi-youtube for a live demo.
+
+##License
+[Apache 2.0](http://www.apache.org/licenses/LICENSE-2.0.txt)
